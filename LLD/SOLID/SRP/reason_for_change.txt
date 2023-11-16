@@ -1,0 +1,9 @@
+SRP - Single Responsiblity Principle
+Invoice class has three responsibilities which can change:
+calculateTotal - can have inclusion of GST
+printInvoice - its logic can change
+saveToDB - can save into file
+
+SRP says - A Class should have only 1 reason to change
+
+Invoice class have three reasons to change therefore  Invoice class has to break down into three different classes

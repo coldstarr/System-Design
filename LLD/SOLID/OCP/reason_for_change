@@ -1,0 +1,4 @@
+Open for Extension but Closed for Modification
+
+We are adding extra save to file function so if class is live and already tested
+so we have to extend it instead of Modification neither it will lead it prone to bugs

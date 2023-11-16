@@ -1,0 +1,5 @@
+Class should depend on interfaces rather than concrete classes
+Previously Mac class depends on WiredMouse and WiredKeyboard
+but if we have to prepare the BlueTooth system then we have to add
+bluetooth type keyboard or bluetooth type mouse so this will not 
+be efficient as efficient to define according pheripheral type
